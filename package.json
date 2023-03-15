@@ -1,0 +1,21 @@
+{
+  "name": "automacao-cypress",
+  "version": "1.0.0",
+  "description": "Projeto de automação utilizando a ferramenta cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "cucumber"
+  ],
+  "author": "Yuri Mustafa",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.8.0",
+    "@badeball/cypress-cucumber-preprocessor": "^15.1.4",
+    "@cypress/browserify-preprocessor": "latest"
+  }
+
+}
